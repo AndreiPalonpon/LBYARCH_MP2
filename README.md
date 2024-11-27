@@ -18,24 +18,24 @@ Outputs
 Execution Times: Measure and compare the performance of C and Assembly implementations.
 Sanity Checks: Validate correctness by ensuring both implementations produce the same result.
 Performance Comparison (Sample Results)
-For 
+For
 𝑛
 =
 2
 20
-n=2 
+n=2
 20
- :
+:
 Assembly Time: 0.003 seconds
 C Time: 0.004 seconds
-For 
+For
 𝑛
 =
 2
 24
-n=2 
+n=2
 24
- :
+:
 Assembly Time: 0.019 seconds
 C Time: 0.046 seconds
 Assembly consistently outperforms C in execution speed due to its lower-level nature and reduced overhead.
