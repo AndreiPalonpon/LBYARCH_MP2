@@ -1,9 +1,10 @@
 # LBYARCH Machine Project 2
 This project is a course requirement for the subject Laboratory Computer Architecture (LBYARCH). It involves implementing a kernel to perform the dot product of two vectors using both C programming language and x86-64 assembly, with a comparative analysis of their execution times.
 
-Authors
+## Authors
 Andrei Palonpon
-Team Members (if any, add their names here)
+Daniel Gavrie Clemente
+
 Overview
 The project computes the dot product of two vectors, with the following features:
 
