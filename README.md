@@ -46,3 +46,6 @@ gcc MP2_C.obj MP2.obj -o MP2_C.exe -m64
 MP2_C.exe
 ```
 
+## Sample Test Case with the Execution Time
+![image](https://github.com/user-attachments/assets/4e7e78a3-c960-4f30-be4c-fc0e8b3c6d83)
+
