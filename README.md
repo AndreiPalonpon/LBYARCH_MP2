@@ -46,6 +46,7 @@ To get a local copy up and running, follow these simple steps.
 ## Usage
 
 To run the application, use the following command:
+
 1.
 ```bash
 nasm -f win64 MP2.asm
