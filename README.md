@@ -46,8 +46,23 @@ To get a local copy up and running, follow these simple steps.
 ## Usage
 
 To run the application, use the following command:
-
+1.
 ```bash
-node index.js
+nasm -f win64 MP2.asm
+gcc -c MP2_C.c -o MP2_C.obj -m64
+gcc MP2_C.obj MP2.obj -o MP2_C.exe -m64
+MP2_C.exe
+```
+2.
+```bash
+gcc -c MP2_C.c -o MP2_C.obj -m64
+```
+3.
+```bash
+gcc MP2_C.obj MP2.obj -o MP2_C.exe -m64
+```
+4.
+```bash
+MP2_C.exe
 ```
 
