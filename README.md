@@ -14,7 +14,7 @@ This project is a course requirement for the subject Laboratory Computer Archite
 
 ## Contributions
 Section: S18 </br>
-Course: CCAPDEV </br>
+Course: LBYARCH </br>
 Contributors:
 - Daniel Gavrie Clemente
 - Andrei Palonpon
