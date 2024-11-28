@@ -8,6 +8,7 @@ This project is a course requirement for the subject Laboratory Computer Archite
 # Table of Contents
 
 - [Contributions](#contributions)
+- [Overview](#overview)
 - [Installation](#installation)
 - [Usage](#usage)
 
@@ -18,6 +19,13 @@ Course: LBYARCH </br>
 Contributors:
 - Daniel Gavrie Clemente
 - Andrei Palonpon
+
+## Overview
+The project computes the dot product of two vectors, with the following features:
+- Functional scalar SIMD registers are utilized.
+- Scalar SIMD floating-point instructions are employed for optimization.
+- Comparative analysis between C and x86-64 assembly implementations.
+  
 ## Installation
 
 To get a local copy up and running, follow these simple steps.
