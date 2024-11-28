@@ -9,7 +9,6 @@ This project is a course requirement for the subject Laboratory Computer Archite
 
 - [Contributions](#contributions)
 - [Overview](#overview)
-- [Installation](#installation)
 - [Usage](#usage)
 
 
@@ -25,24 +24,7 @@ The project computes the dot product of two vectors, with the following features
 - Functional scalar SIMD registers are utilized.
 - Scalar SIMD floating-point instructions are employed for optimization.
 - Comparative analysis between C and x86-64 assembly implementations.
-  
-## Installation
 
-To get a local copy up and running, follow these simple steps.
-
-1. Clone the repo:
-    ```bash
-    git clone https://github.com/yourusername/sample-project.git
-    ```
-2. Change directory to the project folder:
-    ```bash
-    cd CCAPDEVMCO
-    ```
-3. Install the necessary packages:
-    ```bash
-    npm install
-    ```
-- [[More Details]](https://github.com/11daniel/CCAPDEVMCO/blob/8e1125bee7dda03d3d923b15d50e461691964bef/READ.txt)
 ## Usage
 
 To run the application, use the following command:
